@@ -3,7 +3,7 @@
 // code readability should must
 
 let Name= "Nehal" ;
-const number= 23 ;
+const number= 23 ; // 2 to power 52
 let follow = true ;
 let sum = BigInt(9999) ;
 let sample ; 
