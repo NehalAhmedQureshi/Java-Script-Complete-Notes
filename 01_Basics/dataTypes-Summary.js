@@ -12,3 +12,7 @@ let obj = {
 let myfunction = function(){
     console.log(name + num + age);
 } ;
+
+
+//_______________--------------------- Memory -------------------------------
+// Stack and HEap momory  Primitive and nonPrimitive type respectively
